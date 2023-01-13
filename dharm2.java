@@ -5,7 +5,7 @@ public class dharm2 {
         float c = 2.11f;
         double d = 1.22;
         long e = 312;
-        String f = "deep patel";
+        String f = "Jay shree Ram";
 
         System.out.println("Int= " + a);
         System.out.println("Char= " + b);
