@@ -6,7 +6,7 @@ class dharm8 {
         int c = 1;
 
         if (a < b) {
-            if (a > c) {
+            if (a < c) {
                 System.out.println("A is small");
 
             } else {
